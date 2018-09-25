@@ -65,56 +65,8 @@
 		BEC8DA36215A2EDE00FEB7B4 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				BEC8DA37215A2EDE00FEB7B4 /* Home */,
-				BEC8DA38215A2EDE00FEB7B4 /* Tools */,
-				BEC8DA39215A2EDE00FEB7B4 /* Follow */,
-				BEC8DA3A215A2EDE00FEB7B4 /* Profile */,
-				BEC8DA3B215A2EDE00FEB7B4 /* Live */,
-				BEC8DA3C215A2EDE00FEB7B4 /* Main */,
 			);
 			path = Classes;
-			sourceTree = "<group>";
-		};
-		BEC8DA37215A2EDE00FEB7B4 /* Home */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Home;
-			sourceTree = "<group>";
-		};
-		BEC8DA38215A2EDE00FEB7B4 /* Tools */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Tools;
-			sourceTree = "<group>";
-		};
-		BEC8DA39215A2EDE00FEB7B4 /* Follow */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Follow;
-			sourceTree = "<group>";
-		};
-		BEC8DA3A215A2EDE00FEB7B4 /* Profile */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Profile;
-			sourceTree = "<group>";
-		};
-		BEC8DA3B215A2EDE00FEB7B4 /* Live */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Live;
-			sourceTree = "<group>";
-		};
-		BEC8DA3C215A2EDE00FEB7B4 /* Main */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
