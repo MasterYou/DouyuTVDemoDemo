@@ -53,7 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				BEC8DA16215A174500FEB7B4 /* AppDelegate.swift */,
-				BEC8DA28215A252C00FEB7B4 /* Classes */,
+				BEC8DA36215A2EDE00FEB7B4 /* Classes */,
 				BEC8DA1A215A174500FEB7B4 /* Main.storyboard */,
 				BEC8DA1D215A174500FEB7B4 /* Assets.xcassets */,
 				BEC8DA1F215A174600FEB7B4 /* LaunchScreen.storyboard */,
@@ -62,59 +62,59 @@
 			path = DouyuTV;
 			sourceTree = "<group>";
 		};
-		BEC8DA28215A252C00FEB7B4 /* Classes */ = {
+		BEC8DA36215A2EDE00FEB7B4 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				BEC8DA35215A2DCD00FEB7B4 /* Follow */,
-				BEC8DA31215A2DA800FEB7B4 /* Home */,
-				BEC8DA2F215A2DA800FEB7B4 /* Live */,
-				BEC8DA30215A2DA800FEB7B4 /* Main */,
-				BEC8DA33215A2DA800FEB7B4 /* Profile */,
-				BEC8DA34215A2DA800FEB7B4 /* Tools */,
+				BEC8DA37215A2EDE00FEB7B4 /* Home */,
+				BEC8DA38215A2EDE00FEB7B4 /* Tools */,
+				BEC8DA39215A2EDE00FEB7B4 /* Follow */,
+				BEC8DA3A215A2EDE00FEB7B4 /* Profile */,
+				BEC8DA3B215A2EDE00FEB7B4 /* Live */,
+				BEC8DA3C215A2EDE00FEB7B4 /* Main */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		BEC8DA2F215A2DA800FEB7B4 /* Live */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Live;
-			sourceTree = "<group>";
-		};
-		BEC8DA30215A2DA800FEB7B4 /* Main */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Main;
-			sourceTree = "<group>";
-		};
-		BEC8DA31215A2DA800FEB7B4 /* Home */ = {
+		BEC8DA37215A2EDE00FEB7B4 /* Home */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Home;
 			sourceTree = "<group>";
 		};
-		BEC8DA33215A2DA800FEB7B4 /* Profile */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Profile;
-			sourceTree = "<group>";
-		};
-		BEC8DA34215A2DA800FEB7B4 /* Tools */ = {
+		BEC8DA38215A2EDE00FEB7B4 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Tools;
 			sourceTree = "<group>";
 		};
-		BEC8DA35215A2DCD00FEB7B4 /* Follow */ = {
+		BEC8DA39215A2EDE00FEB7B4 /* Follow */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Follow;
+			sourceTree = "<group>";
+		};
+		BEC8DA3A215A2EDE00FEB7B4 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		BEC8DA3B215A2EDE00FEB7B4 /* Live */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Live;
+			sourceTree = "<group>";
+		};
+		BEC8DA3C215A2EDE00FEB7B4 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
