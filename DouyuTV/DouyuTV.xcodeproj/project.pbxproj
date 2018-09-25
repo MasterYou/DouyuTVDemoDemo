@@ -65,8 +65,16 @@
 		BEC8DA36215A2EDE00FEB7B4 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				BEC8DA3D215A300000FEB7B4 /* Main */,
 			);
 			path = Classes;
+			sourceTree = "<group>";
+		};
+		BEC8DA3D215A300000FEB7B4 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
